@@ -1,0 +1,3 @@
+id,name,contact,status,meeting_day,meeting_time,frequency,location,met_by,last_contact,next_followup,notes,updated
+sample01,Sample Person,555-0100,Active,Wed,19:30,Weekly,Campus coffee shop,Alex,2026-11-11,2026-11-18,"Example entry - delete me once you add real people.
+Studying for finals, would appreciate prayer.",2026-11-11
